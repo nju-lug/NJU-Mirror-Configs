@@ -218,6 +218,11 @@
     "path": "/github-release/atelier-anchor/smiley-sans/"
   },
   {
+    "name": "spyder",
+    "inherit": "github-release",
+    "path": "/github-release/spyder-ide/spyder/"
+  },
+  {
     "name": "stellarium",
     "inherit": "github-release",
     "path": "/github-release/Stellarium/stellarium/"

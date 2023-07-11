@@ -318,6 +318,10 @@
         "redirect": "https://mirror.nju.edu.cn/mirrorz-help/julia-releases/?mirror=NJU"
     },
     {
+        "name": "k8s",
+        "redirect": "https://doc.nju.edu.cn/books/35f4a/page/k8s"
+    },
+    {
         "name": "kicad",
         "path": "2019-07-23-kicad.md",
         "route": "kicad",

@@ -470,6 +470,12 @@
     "path": "https://repo.nju.edu.cn/#browse/browse:go"
   },
   {
+    "name": "k8s",
+    "inherit": null,
+    "status":"cache",
+    "path": "https://repo.nju.edu.cn/#browse/browse:k8s"
+  },
+  {
     "name": "maven",
     "inherit": null,
     "status":"cache",

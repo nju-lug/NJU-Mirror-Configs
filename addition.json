@@ -163,6 +163,11 @@
     "path": "/github-release/nju-lug/NJUVisual/LatestRelease/"
   },
   {
+    "name": "neovim",
+    "inherit": "github-release",
+    "path": "/github-release/neovim/neovim/"
+  },
+  {
     "name": "obs-studio",
     "inherit": "github-release",
     "path": "/github-release/obsproject/obs-studio/"

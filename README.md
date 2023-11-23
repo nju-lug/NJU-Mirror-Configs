@@ -64,7 +64,8 @@ optional arguments:
   -d DIR, --dir DIR     Override root directory.
   -R REMOTE, --remote REMOTE
                         [Remote Mode] Using rsync to get file list instead of reading from INI. Need the
-                        base of target site, for example, `mirror.nju.edu.cn`.
+                        base of target site, for example, `mirror.nju.edu.cn`. (NOTE: This feature is only supported
+                        on Linux because of the current RSync backend.)
   -T [TEST ...], --test [TEST ...]
                         Test specified `distro`s (multiple arguments input is supported) in INI. If Remote
                         Mode is on, `distro`s must be specified in case of heavy rsync job.

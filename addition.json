@@ -1,9 +1,5 @@
 [
   {
-    "name": "archlinux-gui",
-    "inherit": "osdn"
-  },
-  {
     "name": "debian-nonfree",
     "inherit": "debian-cdimage"
   },

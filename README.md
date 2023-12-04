@@ -73,18 +73,17 @@ optional arguments:
 
 1. Fork this repository
 2. Edit `genisolist.ini`, add, modify or remove items.
-3. **(Linux Only)** After modification, run the scripts for a quick test: ` python genisolist.py -R <mirror-site-base> -T <items-you-want-to-test>`. 
+3. **(Linux Only)** After modification, run the scripts for a quick test: ` python genisolist.py -R <mirror-site-base> -T <items-you-want-to-test>`. `-T` supports multiple items as input, such as `-T Ventoy "Google Fonts"`.
 4. If the test is passed, create a merge/pull request to let us know.
 
 Exmaple:
 ```
-python genisolist.py -R mirror.nju.edu.cn -T Ventoy "Office Tool Plus"
+python genisolist.py -R mirror.nju.edu.cn -T Ventoy
 ```
 
 Output:
 ```
 [RSync] mirror.nju.edu.cn/github-release/ventoy/Ventoy/
-[RSync] mirror.nju.edu.cn/github-release/YerongAI/Office-Tool/
 [
   {
     "distro": "Ventoy",
@@ -101,28 +100,6 @@ Output:
       {
         "name": "1.0.84 (linux, tar.gz)",
         "url": "/Ventoy 1.0.84 release/ventoy-1.0.84-linux.tar.gz"
-      }
-    ]
-  },
-  {
-    "distro": "Office Tool Plus",
-    "category": "app",
-    "urls": [
-      {
-        "name": "9.0.3.7 (Windows, with_runtime zip)",
-        "url": "/Office Tool Plus v9.0.3.7/Office_Tool_with_runtime_v9.0.3.7.zip"
-      },
-      {
-        "name": "9.0.3.7 (Windows, with_runtime exe)",
-        "url": "/Office Tool Plus v9.0.3.7/Office_Tool_with_runtime_v9.0.3.7.exe"
-      },
-      {
-        "name": "9.0.3.7 (Windows, with_runtime 7z)",
-        "url": "/Office Tool Plus v9.0.3.7/Office_Tool_with_runtime_v9.0.3.7.7z"
-      },
-      {
-        "name": "9.0.3.7 (Windows,  zip)",
-        "url": "/Office Tool Plus v9.0.3.7/Office_Tool_v9.0.3.7.zip"
       }
     ]
   }

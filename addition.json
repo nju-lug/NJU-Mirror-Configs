@@ -291,6 +291,14 @@
     "path": "/git/crates.io-index.git"
   },
   {
+    "name": "dpdk.git",
+    "path": "/git/dpdk.git"
+  },
+  {
+    "name": "doom-emacs.git",
+    "path": "/git/doom-emacs.git"
+  },
+  {
     "name": "emacs.git",
     "path": "/git/emacs.git"
   },

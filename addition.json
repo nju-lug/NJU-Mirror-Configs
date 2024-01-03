@@ -443,6 +443,10 @@
     "path": "/git/zsh-autosuggestions.git"
   },
   {
+    "name": "immortalwrt-snapshots",
+    "path": "/immortalwrt/snapshots"
+  },
+  {
     "name": "opensuse-ports",
     "path": "/opensuse/ports"
   },

@@ -443,6 +443,18 @@
     "path": "/git/zsh-autosuggestions.git"
   },
   {
+    "name": "opensuse-ports",
+    "path": "/opensuse/ports"
+  },
+  {
+    "name": "opensuse-tumbleweed",
+    "path": "/opensuse"
+  },
+  {
+    "name": "opensuse-update",
+    "path": "/opensuse/update"
+  },
+  {
     "name": "docker-hub",
     "inherit": null,
     "status":"cache",

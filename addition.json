@@ -447,6 +447,10 @@
     "path": "/immortalwrt/snapshots"
   },
   {
+    "name": "OpenBSD-snapshots",
+    "path": "/OpenBSD/snapshots"
+  },
+  {
     "name": "opensuse-ports",
     "path": "/opensuse/ports"
   },

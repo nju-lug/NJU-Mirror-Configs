@@ -459,6 +459,10 @@
     "path": "/opensuse/update"
   },
   {
+    "name": "qt-snapshots",
+    "path": "/qt/snapshots"
+  },
+  {
     "name": "docker-hub",
     "inherit": null,
     "status":"cache",

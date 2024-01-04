@@ -22,10 +22,10 @@ parser.add_argument('-d','--dir', default=None,
         help='Override root directory.'
     )
 parser.add_argument('-R','--Remote', default=None,
-        help='[Remote Mode] Using rsync to get file list instead of reading from INI. Need the base of target site, for example, `mirror.nju.edu.cn`.'
+        help='[Remote Mode] Using rsync to get file list instead of reading from local filesystem. Need the base of target site, for example, `mirror.nju.edu.cn`.'
     )
 parser.add_argument('-T','--Test', default=None, nargs="*",
-        help='Test specified `distro`s (multiple arguments input is supported) in INI. If Remote Mode is on, `distro`s must be specified in case of heavy rsync job.'
+        help='Test specified `distro`s (multiple arguments input is supported) in INI. If Remote Mode is on, `distro`s must be specified to avoid heavy rsync job.'
     )
 parser.add_argument('-D','--Debug', action="store_true", 
         help='Show log in debug level.'
@@ -139,10 +139,13 @@ def parseSection(items):
 
     for image_group in images.values():
         if 'nosort' not in items:
-            image_group.sort(key=lambda k: (LooseVersion(k['version']),
-                                            getPlatformPriority(k['platform']),
-                                            k['type']),
-                             reverse=True)
+            try:
+                image_group.sort(key=lambda k: (LooseVersion(k['version']),
+                                                getPlatformPriority(k['platform']),
+                                                k['type']),
+                                reverse=True)
+            except TypeError as e:
+                logger.error("[LooseVersion] Error: %s . `nosort` is used temporarily to ignore version sorting. To avoid this error, check `pattern` in `genisolist.ini`", e)
         versions = set()
         listvers = int(items.get('listvers', 0xFF))
         for image in image_group:
@@ -188,7 +191,7 @@ def getJsonOutput(url_dict, prio={}):
 
 def getImageList():
     ini = ConfigParser()
-    if not(ini.read(CONFIG_FILE)):
+    if not(ini.read(CONFIG_FILE, encoding='utf8')):
         raise Exception("%s not found!" % CONFIG_FILE)
     
     prior = {}

@@ -59,16 +59,16 @@ usage: Mira download list generator [-h] [-d DIR] [-R REMOTE] [-T [TEST ...]]
 
 Generate download list for Mira
 
-optional arguments:
+options:
   -h, --help            show this help message and exit
   -d DIR, --dir DIR     Override root directory.
-  -R REMOTE, --remote REMOTE
-                        [Remote Mode] Using rsync to get file list instead of reading from INI. Need the
-                        base of target site, for example, `mirror.nju.edu.cn`. (NOTE: This feature is only supported
-                        on Linux because of the current RSync backend.)
-  -T [TEST ...], --test [TEST ...]
-                        Test specified `distro`s (multiple arguments input is supported) in INI. If Remote
-                        Mode is on, `distro`s must be specified in case of heavy rsync job.
+  -R REMOTE, --Remote REMOTE
+                        [Remote Mode] Using rsync to get file list instead of reading from local filesystem. Need the base of
+                        target site, for example, `mirror.nju.edu.cn`.
+  -T [TEST ...], --Test [TEST ...]
+                        Test specified `distro`s (multiple arguments input is supported) in INI. If Remote Mode is on, `distro`s   
+                        must be specified to avoid heavy rsync job.
+  -D, --Debug           Show log in debug level.
 ```
 
 1. Fork this repository

@@ -319,6 +319,10 @@
     "path": "/git/gentoo-portage.git"
   },
   {
+    "name": "gentoo-zh.git",
+    "path": "/git/gentoo-zh.git"
+  },
+  {
     "name": "git-repo",
     "path": "/git/git-repo"
   },

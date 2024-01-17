@@ -79,6 +79,11 @@
     "path": "/github-release/git-for-windows/git/"
   },
   {
+    "name": "GNS3",
+    "inherit": "github-release",
+    "path": "/github-release/GNS3/gns3-gui/"
+  },
+  {
     "name": "googlefonts",
     "inherit": "github-release",
     "path": "/github-release/googlefonts/"

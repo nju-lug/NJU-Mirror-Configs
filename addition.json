@@ -336,6 +336,10 @@
     "path": "/git/glibc.git"
   },
   {
+    "name": "guix.git",
+    "path": "/git/guix.git"
+  },
+  {
     "name": "hdf5.git",
     "path": "/git/hdf5.git"
   },

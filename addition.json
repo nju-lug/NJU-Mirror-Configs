@@ -364,6 +364,10 @@
     "path": "/git/homebrew-bundle.git"
   },
   {
+    "name": "homebrew-cask-drivers.git",
+    "path": "/git/homebrew-cask-drivers.git"
+  },
+  {
     "name": "homebrew-cask.git",
     "path": "/git/homebrew-cask.git"
   },

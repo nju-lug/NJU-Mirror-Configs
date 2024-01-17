@@ -348,12 +348,20 @@
     "path": "/git/homebrew"
   },
   {
+    "name": "homebrew-autoupdate.git",
+    "path": "/git/homebrew-autoupdate.git"
+  },
+  {
     "name": "homebrew-base.git",
     "path": "/git/homebrew-base.git"
   },
   {
     "name": "homebrew-bio.git",
     "path": "/git/homebrew-bio.git"
+  },
+  {
+    "name": "homebrew-bundle.git",
+    "path": "/git/homebrew-bundle.git"
   },
   {
     "name": "homebrew-cask.git",

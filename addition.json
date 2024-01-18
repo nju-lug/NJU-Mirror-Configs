@@ -400,6 +400,10 @@
     "path": "/git/homebrew-services.git"
   },
   {
+    "name": "homebrew.git",
+    "path": "/git/homebrew.git"
+  },
+  {
     "name": "linuxbrew-core.git",
     "path": "/git/linuxbrew-core.git"
   },

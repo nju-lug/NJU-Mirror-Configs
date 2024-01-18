@@ -396,6 +396,10 @@
     "path": "/git/homebrew-num.git"
   },
   {
+    "name": "homebrew-services.git",
+    "path": "/git/homebrew-services.git"
+  },
+  {
     "name": "linuxbrew-core.git",
     "path": "/git/linuxbrew-core.git"
   },

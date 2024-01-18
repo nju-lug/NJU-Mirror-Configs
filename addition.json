@@ -388,6 +388,10 @@
     "path": "/git/homebrew-install.git"
   },
   {
+    "name": "homebrew-linux-fonts.git",
+    "path": "/git/homebrew-linux-fonts.git"
+  },
+  {
     "name": "homebrew-num.git",
     "path": "/git/homebrew-num.git"
   },

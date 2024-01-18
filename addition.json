@@ -444,6 +444,10 @@
     "path": "/git/open-mpi.git"
   },
   {
+    "name": "pkgsrc.git",
+    "path": "/git/pkgsrc.git"
+  },
+  {
     "name": "powerlevel10k.git",
     "path": "/git/powerlevel10k.git"
   },

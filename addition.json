@@ -516,6 +516,10 @@
     "path": "/qt/snapshots"
   },
   {
+    "name": "openwrt-snapshots",
+    "path": "/openwrt/snapshots"
+  },
+  {
     "name": "docker-hub",
     "inherit": null,
     "status":"cache",

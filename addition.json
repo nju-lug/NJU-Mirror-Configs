@@ -384,6 +384,10 @@
     "path": "/git/homebrew-core.git"
   },
   {
+    "name": "homebrew-install.git",
+    "path": "/git/homebrew-install.git"
+  },
+  {
     "name": "homebrew-num.git",
     "path": "/git/homebrew-num.git"
   },

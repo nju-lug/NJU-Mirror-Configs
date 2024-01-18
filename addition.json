@@ -368,6 +368,10 @@
     "path": "/git/homebrew-cask-drivers.git"
   },
   {
+    "name": "homebrew-cask-fonts.git",
+    "path": "/git/homebrew-cask-fonts.git"
+  },
+  {
     "name": "homebrew-cask.git",
     "path": "/git/homebrew-cask.git"
   },

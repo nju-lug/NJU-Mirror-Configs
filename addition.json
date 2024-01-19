@@ -493,6 +493,10 @@
     "path": "/git/scoop-nirsoft.git"
   },
   {
+    "name": "scoop.git",
+    "path": "/git/scoop.git"
+  },
+  {
     "name": "zsh-syntax-highlighting.git",
     "path": "/git/zsh-syntax-highlighting.git"
   },

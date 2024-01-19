@@ -501,6 +501,10 @@
     "path": "/git/spacemacs.git"
   },
   {
+    "name": "spdk.git",
+    "path": "/git/spdk.git"
+  },
+  {
     "name": "zsh-syntax-highlighting.git",
     "path": "/git/zsh-syntax-highlighting.git"
   },

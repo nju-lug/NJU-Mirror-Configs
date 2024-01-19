@@ -209,6 +209,11 @@
     "path": "/github-release/QEF/q-e/"
   },
   {
+    "name": "oneclick/rubyinstaller2",
+    "inherit": "github-release",
+    "path": "/github-release/oneclick/rubyinstaller2/"
+  },
+  {
     "name": "rufus",
     "inherit": "github-release",
     "path": "/github-release/pbatard/rufus/"

@@ -497,6 +497,10 @@
     "path": "/git/scoop.git"
   },
   {
+    "name": "spacemacs.git",
+    "path": "/git/spacemacs.git"
+  },
+  {
     "name": "zsh-syntax-highlighting.git",
     "path": "/git/zsh-syntax-highlighting.git"
   },

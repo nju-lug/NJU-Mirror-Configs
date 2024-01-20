@@ -313,6 +313,10 @@
     "path": "/git/emacs.git"
   },
   {
+    "name": "fast-syntax-highlighting.git",
+    "path": "/git/fast-syntax-highlighting.git"
+  },
+  {
     "name": "flutter-sdk.git",
     "path": "/git/flutter-sdk.git"
   },
@@ -505,12 +509,16 @@
     "path": "/git/spdk.git"
   },
   {
-    "name": "zsh-syntax-highlighting.git",
-    "path": "/git/zsh-syntax-highlighting.git"
+    "name": "zsh-autocomplete.git",
+    "path": "/git/zsh-autocomplete.git"
   },
   {
     "name": "zsh-autosuggestions.git",
     "path": "/git/zsh-autosuggestions.git"
+  },
+  {
+    "name": "zsh-syntax-highlighting.git",
+    "path": "/git/zsh-syntax-highlighting.git"
   },
   {
     "name": "immortalwrt-snapshots",

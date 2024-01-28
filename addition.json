@@ -505,6 +505,10 @@
     "path": "/git/scoop.git"
   },
   {
+    "name": "singularity.git",
+    "path": "/git/singularity.git"
+  },
+  {
     "name": "spacemacs.git",
     "path": "/git/spacemacs.git"
   },

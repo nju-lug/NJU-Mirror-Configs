@@ -24,6 +24,11 @@
     "inherit": "osdn"
   },
   {
+    "name": "apptainer",
+    "inherit": "github-release",
+    "path": "/github-release/apptainer/apptainer/"
+  },
+  {
     "name": "atom",
     "inherit": "github-release",
     "path": "/github-release/atom/atom/"
@@ -227,6 +232,11 @@
     "name": "screego",
     "inherit": "github-release",
     "path": "/github-release/screego/server/"
+  },
+  {
+    "name": "singularity",
+    "inherit": "github-release",
+    "path": "/github-release/sylabs/singularity/"
   },
   {
     "name": "smiley-sans",

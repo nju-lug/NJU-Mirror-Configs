@@ -273,10 +273,6 @@
     "path": "/git/aosp"
   },
   {
-    "name": "apptainer.git",
-    "path": "/git/apptainer.git"
-  },
-  {
     "name": "autoupdate-oh-my-zsh-plugins.git",
     "path": "/git/autoupdate-oh-my-zsh-plugins.git"
   },
@@ -503,10 +499,6 @@
   {
     "name": "scoop.git",
     "path": "/git/scoop.git"
-  },
-  {
-    "name": "singularity.git",
-    "path": "/git/singularity.git"
   },
   {
     "name": "spacemacs.git",

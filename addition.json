@@ -273,6 +273,10 @@
     "path": "/git/aosp"
   },
   {
+    "name": "apptainer.git",
+    "path": "/git/apptainer.git"
+  },
+  {
     "name": "autoupdate-oh-my-zsh-plugins.git",
     "path": "/git/autoupdate-oh-my-zsh-plugins.git"
   },

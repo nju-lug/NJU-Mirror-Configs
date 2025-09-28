@@ -319,7 +319,8 @@
             "name": "OpenBSD"
         },
         {
-            "name": "openmediavault"
+            "name": "openmediavault",
+	    "link": "OpenMediaVault"
         },
         {
             "name": "opensuse"

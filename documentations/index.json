@@ -241,11 +241,6 @@
         "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gentoo-portage.git/?mirror=NJU"
     },
     {
-        "name": "gentoo-prefix",
-        "path": "2020-02-21-gentoo-prefix.md",
-        "route": "gentoo-prefix"
-    },
-    {
         "name": "ghcr",
         "redirect": "https://doc.nju.edu.cn/books/e1654/page/ghcr"
     },
@@ -468,12 +463,7 @@
     },
     {
         "name": "openmediavault",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/openmediavault/?mirror=NJU"
-    },
-    {
-        "name": "openmediavault",
-        "path": "2022-12-10-openmediavault.md",
-        "route": "openmediavault"
+        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/OpenMediaVault/?mirror=NJU"
     },
     {
         "name": "opensuse",

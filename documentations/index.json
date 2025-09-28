@@ -548,11 +548,6 @@
         "redirect": "https://mirror.nju.edu.cn/mirrorz-help/repo-ck/?mirror=NJU"
     },
     {
-        "name": "repoforge",
-        "path": "2016-06-21-repoforge.md",
-        "route": "repoforge"
-    },
-    {
         "name": "riscv-toolchains",
         "redirect": "https://mirror.nju.edu.cn/mirrorz-help/riscv-toolchains/?mirror=NJU"
     },

@@ -45,17 +45,17 @@
     {
       "title": "密码管理",
       "url": "https://pass.nju.edu.cn",
-      "icon": "repo"
+      "icon": "bit"
     },
     {
       "title": "网络授时",
       "url": "https://time.nju.edu.cn",
-      "icon": "repo"
+      "icon": "time"
     },
     {
       "title": "文档中心",
       "url": "https://doc.nju.edu.cn",
-      "icon": "repo"
+      "icon": "document"
     }
   ]
 }

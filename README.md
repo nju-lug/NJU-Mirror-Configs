@@ -106,3 +106,9 @@ Output:
   }
 ]
 ```
+
+### `esci.json` Config
+
+1. add icon alias in [NamedIcon.vue](https://github.com/nju-lug/Mira/blob/master/src/components/NamedIcon.vue), available icons: [xicons](https://www.xicons.org/) (ionicons5)
+2. re-deploy front page.
+3. use the alias in [esci.json](https://github.com/nju-lug/NJU-Mirror-Configs/blob/main/cards/esci.json)

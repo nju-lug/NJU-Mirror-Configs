@@ -295,6 +295,11 @@
     "path": "/github-release/rclone/rclone/"
   },
   {
+    "name": "rime-frost",
+    "inherit": "github-release",
+    "path": "/github-release/gaboolic/rime-frost/LatestRelease/"
+  },
+  {
     "name": "rime-ice",
     "inherit": "github-release",
     "path": "/github-release/iDvel/rime-ice/nightly build/"
@@ -531,6 +536,10 @@
   {
     "name": "qemu.git",
     "path": "/git/qemu.git"
+  },
+  {
+    "name": "rime-frost.git",
+    "path": "/git/rime-frost.git"
   },
   {
     "name": "rime-ice.git",

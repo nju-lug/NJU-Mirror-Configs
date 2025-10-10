@@ -115,6 +115,11 @@
     "path": "/github-release/balena-io/etcher/"
   },
   {
+    "name": "fcitx5-pinyin-zhwiki",
+    "inherit": "github-release",
+    "path": "/github-release/felixonmars/fcitx5-pinyin-zhwiki/"
+  },
+  {
     "name": "FreeCAD",
     "inherit": "github-release",
     "path": "/github-release/FreeCAD/FreeCAD/"
@@ -215,6 +220,11 @@
     "path": "/github-release/kubernetes/minikube/"
   },
   {
+    "name": "mw2fcitx",
+    "inherit": "github-release",
+    "path": "/github-release/outloudvi/mw2fcitx/"
+  },
+  {
     "name": "NanaZip",
     "inherit": "github-release",
     "path": "/github-release/M2Team/NanaZip/"
@@ -297,7 +307,7 @@
   {
     "name": "rime-frost",
     "inherit": "github-release",
-    "path": "/github-release/gaboolic/rime-frost/LatestRelease/"
+    "path": "/github-release/gaboolic/rime-frost/"
   },
   {
     "name": "rime-ice",

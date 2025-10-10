@@ -1,51 +1,51 @@
 [
     {
         "name": "adoptium",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/Adoptium/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/Adoptium/?mirror=NJU"
     },
     {
         "name": "alpine",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/alpine/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/alpine/?mirror=NJU"
     },
     {
         "name": "anaconda",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/anaconda/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/anaconda/?mirror=NJU"
     },
     {
         "name": "anthon",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/anthon/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/anthon/?mirror=NJU"
     },
     {
         "name": "aosp",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/AOSP/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/AOSP/?mirror=NJU"
     },
     {
         "name": "aosp-monthly",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/aosp-monthly/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/aosp-monthly/?mirror=NJU"
     },
     {
         "name": "arch4edu",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/arch4edu/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/arch4edu/?mirror=NJU"
     },
     {
         "name": "archlinux",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/archlinux/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/archlinux/?mirror=NJU"
     },
     {
         "name": "archlinuxarm",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/archlinuxarm/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/archlinuxarm/?mirror=NJU"
     },
     {
         "name": "archlinuxcn",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/archlinuxcn/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/archlinuxcn/?mirror=NJU"
     },
     {
         "name": "archriscv",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/archriscv/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/archriscv/?mirror=NJU"
     },
     {
         "name": "armbian",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/armbian/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/armbian/?mirror=NJU"
     },
     {
         "name": "autoupdate-oh-my-zsh-plugins.git",
@@ -54,171 +54,171 @@
     },
     {
         "name": "bazel-apt",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/bazel-apt/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/bazel-apt/?mirror=NJU"
     },
     {
         "name": "binutils-gdb.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/binutils-gdb.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/binutils-gdb.git/?mirror=NJU"
     },
     {
         "name": "bioconductor",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/bioconductor/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/bioconductor/?mirror=NJU"
     },
     {
         "name": "blackarch",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/blackarch/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/blackarch/?mirror=NJU"
     },
     {
         "name": "centos",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/centos/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/centos/?mirror=NJU"
     },
     {
         "name": "centos-altarch",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/centos-altarch/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/centos-altarch/?mirror=NJU"
     },
     {
         "name": "centos-stream",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/centos-stream/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/centos-stream/?mirror=NJU"
     },
     {
         "name": "centos-vault",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/centos-vault/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/centos-vault/?mirror=NJU"
     },
     {
         "name": "ceph",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ceph/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ceph/?mirror=NJU"
     },
     {
         "name": "chef",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/chef/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/chef/?mirror=NJU"
     },
     {
         "name": "clojars",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/clojars/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/clojars/?mirror=NJU"
     },
     {
         "name": "CocoaPods",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/CocoaPods/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/CocoaPods/?mirror=NJU"
     },
     {
         "name": "CPAN",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/CPAN/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/CPAN/?mirror=NJU"
     },
     {
         "name": "CRAN",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/CRAN/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/CRAN/?mirror=NJU"
     },
     {
         "name": "crates.io-index",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/crates.io-index/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/crates.io-index/?mirror=NJU"
     },
     {
         "name": "crates.io-index.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/crates.io-index.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/crates.io-index.git/?mirror=NJU"
     },
     {
         "name": "CTAN",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/CTAN/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/CTAN/?mirror=NJU"
     },
     {
         "name": "cygwin",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/cygwin/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/cygwin/?mirror=NJU"
     },
     {
         "name": "dart-pub",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/dart-pub/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/dart-pub/?mirror=NJU"
     },
     {
         "name": "deb-multimedia",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/deb-multimedia/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/deb-multimedia/?mirror=NJU"
     },
     {
         "name": "debian",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/debian/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/debian/?mirror=NJU"
     },
     {
         "name": "debian-cd",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/debian-cd/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/debian-cd/?mirror=NJU"
     },
     {
         "name": "debian-cdimage",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/debian-cdimage/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/debian-cdimage/?mirror=NJU"
     },
     {
         "name": "debian-elts",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/debian-elts/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/debian-elts/?mirror=NJU"
     },
     {
         "name": "debian-security",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/debian-security/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/debian-security/?mirror=NJU"
     },
     {
         "name": "debiancn",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/debiancn/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/debiancn/?mirror=NJU"
     },
     {
         "name": "docker-ce",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/docker-ce/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/docker-ce/?mirror=NJU"
     },
     {
         "name": "eclipse",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/eclipse/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/eclipse/?mirror=NJU"
     },
     {
         "name": "elasticstack",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/elasticstack/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/elasticstack/?mirror=NJU"
     },
     {
         "name": "elpa",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/elpa/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/elpa/?mirror=NJU"
     },
     {
         "name": "elrepo",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/elrepo/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/elrepo/?mirror=NJU"
     },
     {
         "name": "entware",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/entware/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/entware/?mirror=NJU"
     },
     {
         "name": "epel",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/epel/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/epel/?mirror=NJU"
     },
     {
         "name": "erlang-solutions",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/erlang-solutions/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/erlang-solutions/?mirror=NJU"
     },
     {
         "name": "fdroid",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/fdroid/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/fdroid/?mirror=NJU"
     },
     {
         "name": "fedora",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/fedora/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/fedora/?mirror=NJU"
     },
     {
         "name": "flutter",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/flutter/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/flutter/?mirror=NJU"
     },
     {
         "name": "flutter-sdk.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/flutter-sdk.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/flutter-sdk.git/?mirror=NJU"
     },
     {
         "name": "freebsd",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/FreeBSD/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/FreeBSD/?mirror=NJU"
     },
     {
         "name": "freebsd-pkg",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/FreeBSD-pkg/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/FreeBSD-pkg/?mirror=NJU"
     },
     {
         "name": "freebsd-ports",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/FreeBSD-ports/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/FreeBSD-ports/?mirror=NJU"
     },
     {
         "name": "gcc.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gcc.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gcc.git/?mirror=NJU"
     },
     {
         "name": "gcr",
@@ -226,19 +226,19 @@
     },
     {
         "name": "gentoo",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gentoo/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gentoo/?mirror=NJU"
     },
     {
         "name": "gentoo-portage",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gentoo-portage/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gentoo-portage/?mirror=NJU"
     },
     {
         "name": "gentoo-portage-prefix",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gentoo-portage-prefix/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gentoo-portage-prefix/?mirror=NJU"
     },
     {
         "name": "gentoo-portage.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gentoo-portage.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gentoo-portage.git/?mirror=NJU"
     },
     {
         "name": "ghcr",
@@ -246,27 +246,27 @@
     },
     {
         "name": "ghcup",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ghcup/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ghcup/?mirror=NJU"
     },
     {
         "name": "git-repo",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/git-repo/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/git-repo/?mirror=NJU"
     },
     {
         "name": "github-raw",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/github-raw/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/github-raw/?mirror=NJU"
     },
     {
         "name": "github-release",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/github-release/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/github-release/?mirror=NJU"
     },
     {
         "name": "gitlab-ce",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gitlab-ce/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gitlab-ce/?mirror=NJU"
     },
     {
         "name": "gitlab-runner",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/gitlab-runner/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/gitlab-runner/?mirror=NJU"
     },
     {
         "name": "glcr",
@@ -274,7 +274,7 @@
     },
     {
         "name": "glibc.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/glibc.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/glibc.git/?mirror=NJU"
     },
     {
         "name": "go",
@@ -282,39 +282,39 @@
     },
     {
         "name": "grafana",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/grafana/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/grafana/?mirror=NJU"
     },
     {
         "name": "guix.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/guix.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/guix.git/?mirror=NJU"
     },
     {
         "name": "hackage",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/hackage/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/hackage/?mirror=NJU"
     },
     {
         "name": "homebrew",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/homebrew/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/homebrew/?mirror=NJU"
     },
     {
         "name": "homebrew-bottles",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/homebrew-bottles/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/homebrew-bottles/?mirror=NJU"
     },
     {
         "name": "immortalwrt",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/immortalwrt/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/immortalwrt/?mirror=NJU"
     },
     {
         "name": "influxdata",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/influxdata/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/influxdata/?mirror=NJU"
     },
     {
         "name": "julia",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/julia/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/julia/?mirror=NJU"
     },
     {
         "name": "julia-releases",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/julia-releases/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/julia-releases/?mirror=NJU"
     },
     {
         "name": "k8s",
@@ -322,75 +322,75 @@
     },
     {
         "name": "kali",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/kali/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/kali/?mirror=NJU"
     },
     {
         "name": "kicad",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/kicad/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/kicad/?mirror=NJU"
     },
     {
         "name": "kodi",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/kodi/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/kodi/?mirror=NJU"
     },
     {
         "name": "kubernetes",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/kubernetes/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/kubernetes/?mirror=NJU"
     },
     {
         "name": "lineageos",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/lineage-rom/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/lineage-rom/?mirror=NJU"
     },
     {
         "name": "linux-firmware.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/linux-firmware.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/linux-firmware.git/?mirror=NJU"
     },
     {
         "name": "linux-next.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/linux-next.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/linux-next.git/?mirror=NJU"
     },
     {
         "name": "linux-stable.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/linux-stable.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/linux-stable.git/?mirror=NJU"
     },
     {
         "name": "linux.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/linux.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/linux.git/?mirror=NJU"
     },
     {
         "name": "linuxliteos",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/linuxliteos/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/linuxliteos/?mirror=NJU"
     },
     {
         "name": "linuxmint",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/linuxmint/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/linuxmint/?mirror=NJU"
     },
     {
         "name": "llvm-apt",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/llvm-apt/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/llvm-apt/?mirror=NJU"
     },
     {
         "name": "llvm-project.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/llvm-project.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/llvm-project.git/?mirror=NJU"
     },
     {
         "name": "loongarch",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/loongarch/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/loongarch/?mirror=NJU"
     },
     {
         "name": "lxc-images",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/lxc-images/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/lxc-images/?mirror=NJU"
     },
     {
         "name": "mageia",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/mageia/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/mageia/?mirror=NJU"
     },
     {
         "name": "manjaro",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/manjaro/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/manjaro/?mirror=NJU"
     },
     {
         "name": "mariadb",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/mariadb/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/mariadb/?mirror=NJU"
     },
     {
         "name": "maven",
@@ -403,23 +403,23 @@
     },
     {
         "name": "mongodb",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/mongodb/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/mongodb/?mirror=NJU"
     },
     {
         "name": "mozilla",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/mozilla/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/mozilla/?mirror=NJU"
     },
     {
         "name": "msys2",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/msys2/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/msys2/?mirror=NJU"
     },
     {
         "name": "mysql",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/mysql/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/mysql/?mirror=NJU"
     },
     {
         "name": "NetBSD",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/NetBSD/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/NetBSD/?mirror=NJU"
     },
     {
         "name": "ngc",
@@ -427,23 +427,23 @@
     },
     {
         "name": "nix",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/nix/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/nix/?mirror=NJU"
     },
     {
         "name": "nix-channels",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/nix-channels/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/nix-channels/?mirror=NJU"
     },
     {
         "name": "nixos-images",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/nixos-images/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/nixos-images/?mirror=NJU"
     },
     {
         "name": "nixpkgs.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/nixpkgs.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/nixpkgs.git/?mirror=NJU"
     },
     {
         "name": "nodejs-release",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/nodejs-release/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/nodejs-release/?mirror=NJU"
     },
     {
         "name": "npm",
@@ -455,63 +455,63 @@
     },
     {
         "name": "ohmyzsh.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ohmyzsh.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ohmyzsh.git/?mirror=NJU"
     },
     {
         "name": "OpenBSD",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/OpenBSD/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/OpenBSD/?mirror=NJU"
     },
     {
         "name": "openmediavault",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/OpenMediaVault/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/OpenMediaVault/?mirror=NJU"
     },
     {
         "name": "opensuse",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/opensuse/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/opensuse/?mirror=NJU"
     },
     {
         "name": "openwrt",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/openwrt/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/openwrt/?mirror=NJU"
     },
     {
         "name": "packagist",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/packagist/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/packagist/?mirror=NJU"
     },
     {
         "name": "packman",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/packman/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/packman/?mirror=NJU"
     },
     {
         "name": "pkgsrc",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/pkgsrc/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/pkgsrc/?mirror=NJU"
     },
     {
         "name": "pkgsrc.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/pkgsrc.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/pkgsrc.git/?mirror=NJU"
     },
     {
         "name": "postmarketos",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/postmarketos/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/postmarketos/?mirror=NJU"
     },
     {
         "name": "proxmox",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/proxmox/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/proxmox/?mirror=NJU"
     },
     {
         "name": "pybombs",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/pybombs/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/pybombs/?mirror=NJU"
     },
     {
         "name": "pypi",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/pypi/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/pypi/?mirror=NJU"
     },
     {
         "name": "qemu.git",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/qemu.git/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/qemu.git/?mirror=NJU"
     },
     {
         "name": "qt",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/qt/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/qt/?mirror=NJU"
     },
     {
         "name": "quay",
@@ -519,115 +519,115 @@
     },
     {
         "name": "qubes",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/qubesos/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/qubesos/?mirror=NJU"
     },
     {
         "name": "raspberry-pi-os-images",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/raspberry-pi-os-images/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/raspberry-pi-os-images/?mirror=NJU"
     },
     {
         "name": "raspberrypi",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/raspberrypi/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/raspberrypi/?mirror=NJU"
     },
     {
         "name": "raspbian",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/raspbian/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/raspbian/?mirror=NJU"
     },
     {
         "name": "repo-ck",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/repo-ck/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/repo-ck/?mirror=NJU"
     },
     {
         "name": "riscv-toolchains",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/riscv-toolchains/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/riscv-toolchains/?mirror=NJU"
     },
     {
         "name": "rocky",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/rocky/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/rocky/?mirror=NJU"
     },
     {
         "name": "ros",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ros/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ros/?mirror=NJU"
     },
     {
         "name": "ros2",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ros2/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ros2/?mirror=NJU"
     },
     {
         "name": "rosdistro",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/rosdistro/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/rosdistro/?mirror=NJU"
     },
     {
         "name": "rpmfusion",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/rpmfusion/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/rpmfusion/?mirror=NJU"
     },
     {
         "name": "rubygems",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/rubygems/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/rubygems/?mirror=NJU"
     },
     {
         "name": "rudder",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/rudder/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/rudder/?mirror=NJU"
     },
     {
         "name": "rustup",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/rustup/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/rustup/?mirror=NJU"
     },
     {
         "name": "scientific",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/scientific/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/scientific/?mirror=NJU"
     },
     {
         "name": "solus",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/solus/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/solus/?mirror=NJU"
     },
     {
         "name": "stackage",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/stackage/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/stackage/?mirror=NJU"
     },
     {
         "name": "termux",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/termux/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/termux/?mirror=NJU"
     },
     {
         "name": "tlpretest",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/tlpretest/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/tlpretest/?mirror=NJU"
     },
     {
         "name": "trisquel",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/trisquel/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/trisquel/?mirror=NJU"
     },
     {
         "name": "ubuntu",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ubuntu/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ubuntu/?mirror=NJU"
     },
     {
         "name": "ubuntu-cloud-images",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ubuntu-cloud-images/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ubuntu-cloud-images/?mirror=NJU"
     },
     {
         "name": "ubuntu-old-releases",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ubuntu-old-releases/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ubuntu-old-releases/?mirror=NJU"
     },
     {
         "name": "ubuntu-ports",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/ubuntu-ports/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/ubuntu-ports/?mirror=NJU"
     },
     {
         "name": "virtualbox",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/virtualbox/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/virtualbox/?mirror=NJU"
     },
     {
         "name": "voidlinux",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/voidlinux/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/voidlinux/?mirror=NJU"
     },
     {
         "name": "wine-builds",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/wine-builds/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/wine-builds/?mirror=NJU"
     },
     {
         "name": "winget-source",
-        "redirect": "https://mirror.nju.edu.cn/mirrorz-help/winget-source/?mirror=NJU"
+        "redirect": "https://help.mirror.nju.edu.cn/winget-source/?mirror=NJU"
     },
     {
         "name": "zsh-autosuggestions.git",

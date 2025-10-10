@@ -35,9 +35,9 @@ if __name__ == '__main__':
             for i in links['mirrorz']:
                 print(f"Add mirrorz link {i['name']}.")
                 if 'link' in i:
-                    res.append({"name":i['name'],"redirect":f"https://mirror.nju.edu.cn/mirrorz-help/{i['link']}/?mirror=NJU"})
+                    res.append({"name":i['name'],"redirect":f"https://help.mirror.nju.edu.cn/{i['link']}/?mirror=NJU"})
                 else:
-                    res.append({"name":i['name'],"redirect":f"https://mirror.nju.edu.cn/mirrorz-help/{i['name']}/?mirror=NJU"})
+                    res.append({"name":i['name'],"redirect":f"https://help.mirror.nju.edu.cn/{i['name']}/?mirror=NJU"})
         if 'doc' in links:
             for i in links['doc']:
                 print(f"Add doc link {i['name']}.")

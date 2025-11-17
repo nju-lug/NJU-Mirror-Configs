@@ -548,6 +548,10 @@
     "path": "/git/qemu.git"
   },
   {
+    "name": "qgis.git",
+    "path": "/git/qgis.git"
+  },
+  {
     "name": "rime-frost.git",
     "path": "/git/rime-frost.git"
   },

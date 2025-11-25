@@ -60,6 +60,11 @@
     "path": "/github-release/apptainer/apptainer/"
   },
   {
+    "name": "archzfs",
+    "inherit": "github-release",
+    "path": "/github-release/archzfs/archzfs/"
+  },
+  {
     "name": "atom",
     "inherit": "github-release",
     "path": "/github-release/atom/atom/"

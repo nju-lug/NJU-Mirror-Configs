@@ -65,6 +65,11 @@
     "path": "/github-release/archzfs/archzfs/"
   },
   {
+    "name": "astroterm",
+    "inherit": "github-release",
+    "path": "/github-release/da-luce/astroterm/"
+  },
+  {
     "name": "atom",
     "inherit": "github-release",
     "path": "/github-release/atom/atom/"
@@ -303,11 +308,6 @@
     "name": "q-e",
     "inherit": "github-release",
     "path": "/github-release/QEF/q-e/"
-  },
-  {
-    "name": "rclone",
-    "inherit": "github-release",
-    "path": "/github-release/rclone/rclone/"
   },
   {
     "name": "rime-frost",

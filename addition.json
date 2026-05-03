@@ -653,10 +653,6 @@
     "path": "/qt/snapshots"
   },
   {
-    "name": "openwrt-snapshots",
-    "path": "/openwrt/snapshots"
-  },
-  {
     "name": "alphafold",
     "status":"success",
     "size":"838G",

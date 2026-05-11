@@ -649,6 +649,10 @@
     "path": "/opensuse/update"
   },
   {
+    "name": "qgis-deb",
+    "path": "/qgis"
+  },
+  {
     "name": "qt-snapshots",
     "path": "/qt/snapshots"
   },

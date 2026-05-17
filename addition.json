@@ -235,6 +235,11 @@
     "path": "/github-release/kubernetes/minikube/"
   },
   {
+    "name": "motrix-next",
+    "inherit": "github-release",
+    "path": "/github-release/AnInsomniacy/motrix-next/"
+  },
+  {
     "name": "mw2fcitx",
     "inherit": "github-release",
     "path": "/github-release/outloudvi/mw2fcitx/"

@@ -55,6 +55,11 @@
     "path": "/osdn/storage/g/r/ra/raspbian-addons/"
   },
   {
+    "name": "7-zip",
+    "inherit": "github-release",
+    "path": "/github-release/ip7z/7zip/"
+  },
+  {
     "name": "apptainer",
     "inherit": "github-release",
     "path": "/github-release/apptainer/apptainer/"

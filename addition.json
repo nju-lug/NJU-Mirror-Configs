@@ -543,6 +543,10 @@
     "path": "/git/ohmyzsh.git"
   },
   {
+    "name": "opam-repository.git",
+    "path": "/git/opam-repository.git"
+  },
+  {
     "name": "open-mpi.git",
     "path": "/git/open-mpi.git"
   },

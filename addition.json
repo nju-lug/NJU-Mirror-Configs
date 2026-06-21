@@ -260,6 +260,11 @@
     "path": "/github-release/WheretoSleepinNJU/NJU-Class-Shedule-Flutter/LatestRelease/"
   },
   {
+    "name": "nju-cli",
+    "inherit": "github-release",
+    "path": "/github-release/nju-cli/nju-cli/"
+  },
+  {
     "name": "NJUThesis",
     "inherit": "github-release",
     "path": "/github-release/nju-lug/NJUThesis/LatestRelease/"
@@ -403,6 +408,11 @@
     "name": "vscodium",
     "inherit": "github-release",
     "path": "/github-release/VSCodium/vscodium/"
+  },
+  {
+    "name": "win12-online",
+    "inherit": "github-release",
+    "path": "/github-release/win12-online/"
   },
   {
     "name": "winlibs_mingw",

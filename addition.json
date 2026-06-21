@@ -489,10 +489,6 @@
     "path": "/git/git-repo"
   },
   {
-    "name": "github-chinese.git",
-    "path": "/git/github-chinese.git"
-  },
-  {
     "name": "glibc.git",
     "path": "/git/glibc.git"
   },

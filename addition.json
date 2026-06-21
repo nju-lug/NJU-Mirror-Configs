@@ -549,6 +549,18 @@
     "path": "/git/nixpkgs.git"
   },
   {
+    "name": "nju-cli-claude-marketplace.git",
+    "path": "/git/nju-cli-claude-marketplace.git"
+  },
+  {
+    "name": "nju-cli-codex-marketplace.git",
+    "path": "/git/nju-cli-codex-marketplace.git"
+  },
+  {
+    "name": "nju-cli-opencode.git",
+    "path": "/git/nju-cli-opencode.git"
+  },
+  {
     "name": "ohmyzsh.git",
     "path": "/git/ohmyzsh.git"
   },

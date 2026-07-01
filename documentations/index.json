@@ -534,10 +534,6 @@
         "redirect": "https://help.mirror.nju.edu.cn/raspbian/?mirror=NJU"
     },
     {
-        "name": "repo-ck",
-        "redirect": "https://help.mirror.nju.edu.cn/repo-ck/?mirror=NJU"
-    },
-    {
         "name": "riscv-toolchains",
         "redirect": "https://help.mirror.nju.edu.cn/riscv-toolchains/?mirror=NJU"
     },

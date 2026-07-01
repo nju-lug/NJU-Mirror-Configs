@@ -372,9 +372,6 @@
             "name": "raspberry-pi-os-images"
         },
         {
-            "name": "repo-ck"
-        },
-        {
             "name": "riscv-toolchains"
         },
         {

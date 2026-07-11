@@ -681,6 +681,10 @@
     "path": "/opensuse/update"
   },
   {
+    "name": "proxmox-iso",
+    "path": "/proxmox/iso"
+  },
+  {
     "name": "qgis-deb",
     "path": "/qgis"
   },

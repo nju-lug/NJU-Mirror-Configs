@@ -521,6 +521,10 @@
     "path": "/git/homebrew-num.git"
   },
   {
+    "name": "kernel-doc-zh.git",
+    "path": "/git/kernel-doc-zh.git"
+  },
+  {
     "name": "linux-firmware.git",
     "path": "/git/linux-firmware.git"
   },

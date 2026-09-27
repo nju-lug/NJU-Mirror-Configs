@@ -35,6 +35,61 @@
     "path": "/git/homebrew/install.git/"
   },
   {
+    "name": "scoop.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/scoop.git/"
+  },
+  {
+    "name": "scoop-main.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/main.git/"
+  },
+  {
+    "name": "scoop-extras.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/extras.git/"
+  },
+  {
+    "name": "scoop-versions.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/versions.git/"
+  },
+  {
+    "name": "scoop-nirsoft.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/nirsoft.git/"
+  },
+  {
+    "name": "scoop-php.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/php.git/"
+  },
+  {
+    "name": "scoop-nonportable.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/nonportable.git/"
+  },
+  {
+    "name": "scoop-java.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/java.git/"
+  },
+  {
+    "name": "scoop-nerd-fonts.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/scoop-nerd-fonts.git/"
+  },
+  {
+    "name": "scoop-games.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/scoop-games.git/"
+  },
+  {
+    "name": "scoop-sysinternals.git",
+    "inherit": "scoop",
+    "path": "/git/scoop/scoop-sysinternals.git/"
+  },
+  {
     "name": "kernel",
     "inherit": "kernel.org",
     "path": "/kernel.org/linux/kernel/"
@@ -601,6 +656,10 @@
     "path": "/git/rime-ice.git"
   },
   {
+    "name": "scoop",
+    "path": "/git/scoop"
+  },
+  {
     "name": "spacemacs.git",
     "path": "/git/spacemacs.git"
   },
@@ -735,9 +794,5 @@
     "inherit": null,
     "status":"cache",
     "path": "https://repo.nju.edu.cn/npm"
-  },
-  {
-    "name": "scoop",
-    "path": "/git/scoop"
   }
 ]

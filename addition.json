@@ -601,38 +601,6 @@
     "path": "/git/rime-ice.git"
   },
   {
-    "name": "scoop-nonportable.git",
-    "path": "/git/scoop-nonportable.git"
-  },
-  {
-    "name": "scoop-extras.git",
-    "path": "/git/scoop-extras.git"
-  },
-  {
-    "name": "scoop-main.git",
-    "path": "/git/scoop-main.git"
-  },
-  {
-    "name": "scoop-versions.git",
-    "path": "/git/scoop-versions.git"
-  },
-  {
-    "name": "scoop-java.git",
-    "path": "/git/scoop-java.git"
-  },
-  {
-    "name": "scoop-nerd-fonts.git",
-    "path": "/git/scoop-nerd-fonts.git"
-  },
-  {
-    "name": "scoop-nirsoft.git",
-    "path": "/git/scoop-nirsoft.git"
-  },
-  {
-    "name": "scoop.git",
-    "path": "/git/scoop.git"
-  },
-  {
     "name": "spacemacs.git",
     "path": "/git/spacemacs.git"
   },
@@ -767,5 +735,9 @@
     "inherit": null,
     "status":"cache",
     "path": "https://repo.nju.edu.cn/npm"
+  },
+  {
+    "name": "scoop",
+    "path": "/git/scoop"
   }
 ]

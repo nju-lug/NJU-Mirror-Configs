@@ -180,6 +180,12 @@
             "name": "gentoo-portage-prefix"
         },
         {
+            "name": "gentoo-zh"
+        },
+        {
+            "name": "gentoo-zh.git"
+        },
+        {
             "name": "ghcup"
         },
         {

@@ -241,6 +241,14 @@
         "redirect": "https://help.mirror.nju.edu.cn/gentoo-portage.git/?mirror=NJU"
     },
     {
+        "name": "gentoo-zh",
+        "redirect": "https://help.mirror.nju.edu.cn/gentoo-zh/?mirror=NJU"
+    },
+    {
+        "name": "gentoo-zh.git",
+        "redirect": "https://help.mirror.nju.edu.cn/gentoo-zh.git/?mirror=NJU"
+    },
+    {
         "name": "ghcr",
         "redirect": "https://doc.nju.edu.cn/books/e1654/page/ghcr"
     },

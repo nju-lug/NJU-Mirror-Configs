@@ -1,6 +1,9 @@
 {
     "mirrorz": [
         {
+            "name": "adobe-fonts"
+        },
+        {
             "name": "adoptium",
             "link": "Adoptium"
         },
@@ -222,6 +225,9 @@
             "name": "influxdata"
         },
         {
+            "name": "jetson-pypi"
+        },
+        {
             "name": "julia"
         },
         {
@@ -238,6 +244,9 @@
         },
         {
             "name": "kubernetes"
+        },
+        {
+            "name": "librewolf"
         },
         {
 	    "name": "lineageos",
@@ -316,6 +325,9 @@
             "name": "ohmyzsh.git"
         },
         {
+            "name": "opam-repository.git"
+        },
+        {
             "name": "OpenBSD"
         },
         {
@@ -353,6 +365,12 @@
             "name": "pypi"
         },
         {
+            "name": "python"
+        },
+        {
+            "name": "pytorch"
+        },
+        {
             "name": "qemu.git"
         },
         {
@@ -378,6 +396,9 @@
             "name": "rocky"
         },
         {
+            "name": "rocm-pypi"
+        },
+        {
             "name": "ros"
         },
         {
@@ -400,6 +421,9 @@
         },
         {
             "name": "scientific"
+        },
+        {
+            "name": "scoop"
         },
         {
             "name": "solus"

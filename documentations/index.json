@@ -1,5 +1,9 @@
 [
     {
+        "name": "adobe-fonts",
+        "redirect": "https://help.mirror.nju.edu.cn/adobe-fonts/?mirror=NJU"
+    },
+    {
         "name": "adoptium",
         "redirect": "https://help.mirror.nju.edu.cn/Adoptium/?mirror=NJU"
     },
@@ -309,6 +313,10 @@
         "redirect": "https://help.mirror.nju.edu.cn/influxdata/?mirror=NJU"
     },
     {
+        "name": "jetson-pypi",
+        "redirect": "https://help.mirror.nju.edu.cn/jetson-pypi/?mirror=NJU"
+    },
+    {
         "name": "julia",
         "redirect": "https://help.mirror.nju.edu.cn/julia/?mirror=NJU"
     },
@@ -335,6 +343,10 @@
     {
         "name": "kubernetes",
         "redirect": "https://help.mirror.nju.edu.cn/kubernetes/?mirror=NJU"
+    },
+    {
+        "name": "librewolf",
+        "redirect": "https://help.mirror.nju.edu.cn/librewolf/?mirror=NJU"
     },
     {
         "name": "lineageos",
@@ -458,6 +470,10 @@
         "redirect": "https://help.mirror.nju.edu.cn/ohmyzsh.git/?mirror=NJU"
     },
     {
+        "name": "opam-repository.git",
+        "redirect": "https://help.mirror.nju.edu.cn/opam-repository.git/?mirror=NJU"
+    },
+    {
         "name": "OpenBSD",
         "redirect": "https://help.mirror.nju.edu.cn/OpenBSD/?mirror=NJU"
     },
@@ -506,6 +522,14 @@
         "redirect": "https://help.mirror.nju.edu.cn/pypi/?mirror=NJU"
     },
     {
+        "name": "python",
+        "redirect": "https://help.mirror.nju.edu.cn/python/?mirror=NJU"
+    },
+    {
+        "name": "pytorch",
+        "redirect": "https://help.mirror.nju.edu.cn/pytorch/?mirror=NJU"
+    },
+    {
         "name": "qemu.git",
         "redirect": "https://help.mirror.nju.edu.cn/qemu.git/?mirror=NJU"
     },
@@ -542,6 +566,10 @@
         "redirect": "https://help.mirror.nju.edu.cn/rocky/?mirror=NJU"
     },
     {
+        "name": "rocm-pypi",
+        "redirect": "https://help.mirror.nju.edu.cn/rocm-pypi/?mirror=NJU"
+    },
+    {
         "name": "ros",
         "redirect": "https://help.mirror.nju.edu.cn/ros/?mirror=NJU"
     },
@@ -572,6 +600,10 @@
     {
         "name": "scientific",
         "redirect": "https://help.mirror.nju.edu.cn/scientific/?mirror=NJU"
+    },
+    {
+        "name": "scoop",
+        "redirect": "https://help.mirror.nju.edu.cn/scoop/?mirror=NJU"
     },
     {
         "name": "solus",
